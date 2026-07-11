@@ -36,3 +36,12 @@ The goal is to demonstrate how simple snapshot-based methods can significantly u
 
 ```bash
 python compare_4_methods_default_prepay.py
+
+
+## Data
+
+The full simulated dataset used in this analysis is large (0.569 GB when unzipped).  
+Due to GitHub file size limits, the data file is **not included** in this repository.
+
+If you would like to access the data, please contact me at:  
+**llvvzhang@yahoo.com**
