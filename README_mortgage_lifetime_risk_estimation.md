@@ -24,10 +24,7 @@ The goal is to demonstrate how simple snapshot-based methods can significantly u
 
 ## Files in This Repository
 
-- `compare_4_methods_default_prepay.py` — Main script
-- `default_rate_comparison.png` — Comparison chart for default rates
-- `prepay_rate_comparison.png` — Comparison chart for prepayment rates
-- `comparison_4_methods_manual.csv` — Output results table
+- `mortgage_lifetime_risk_estimation.ipynb — Main script
 
 ## How to Run
 
@@ -35,8 +32,7 @@ The goal is to demonstrate how simple snapshot-based methods can significantly u
 2. Run the script:
 
 ```bash
-python compare_4_methods_default_prepay.py
-
+python mortgage_lifetime_risk_estimation.py
 
 ## Data
 
